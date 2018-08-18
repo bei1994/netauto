@@ -51,6 +51,11 @@ Nest list:
 1. First list item
    - First nested list item
      - Second nested list item
+
+Marked list:
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
      
 ---
 
