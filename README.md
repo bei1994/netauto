@@ -21,3 +21,5 @@ vs
 ---
 
 **This is bolded**
+
+*This is italic*
