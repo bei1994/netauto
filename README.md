@@ -28,3 +28,11 @@ vs
 
 surround command or block of code by using backticks.
 `ls -a`
+
+---
+
+Bullet list:
+
+* first
+* second
+* third
