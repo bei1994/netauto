@@ -18,6 +18,6 @@ vs
 
 ##### This is my second research
 
-===
+---
 
 **This is bolded**
