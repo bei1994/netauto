@@ -36,3 +36,9 @@ Bullet list:
 * first
 * second
 * third
+
+Number list:
+
+1. first
+2. second
+3. third
