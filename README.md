@@ -23,3 +23,8 @@ vs
 **This is bolded**
 
 *This is italic*
+
+---
+
+surround command or block of code by using backticks.
+`ls -a`
