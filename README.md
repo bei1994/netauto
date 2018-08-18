@@ -25,7 +25,7 @@ vs
 
 **This *is* bolded**
 
-*This is italic*
+_This is italic_
 
 ---
 
